@@ -1,0 +1,19 @@
+{
+  "note": "Vendored skill packs are NOT redistributed; refresh from upstream sources.",
+  "vendored_names": [
+    "apple",
+    "autonomous-ai-agents",
+    "creative",
+    "devops",
+    "diagnose-crash",
+    "email",
+    "media",
+    "note-taking",
+    "omarchy",
+    "productivity",
+    "research",
+    "social-media",
+    "software-development",
+    "web"
+  ]
+}
